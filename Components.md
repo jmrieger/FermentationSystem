@@ -26,8 +26,10 @@
   * 304 SS
   * 12V DC Power
   * CR-02 
-* (1) (n/a)      304SS 1/2" NPT Tee
-* (1) (n/a)      304SS 1/2" NPT Plug
+* (1) (n/a)      1/2" PEX Tee
+* (1) (n/a)      1/2" PEX Plug
+* (1) (n/a)      1/2" PEX to 1/2" MNPT (MIP) fitting
 * (1) (n/a)      304SS 1" NPT to barb fitting
+* (2) (n/a)      Hose clamp
   
 
