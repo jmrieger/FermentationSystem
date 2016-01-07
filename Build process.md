@@ -14,7 +14,7 @@ Acquire all parts listed in components.md
 5. Install hose from other barb to submersible pump, leaving pump in the bottom of the reservoir.  Drape 110V power cord over tank wall. Label this port externally as 'OUT'
 
 # Step 3 - Prep Fridge Door
-1. Cut 2 holes into door for shank.  Hole size TBD based on shanks purchased.
+1. Cut 2 holes into door for shank.  Hole size TBD based on shanks purchased.  Drill holes near bottom of door, ensuring that the floor of the fridge will be cleared by the shanks.
 2. Attach shanks to door, securing appropriately.
 3. Attach straight barb fittings to each shank inside door.  Label one 'IN' and one 'OUT' on both sides of door.
 4. Attach 90* pex barb elbows to shank on outside of door.
